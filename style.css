@@ -46,7 +46,7 @@ margin-bottom: 10px;
     display: flex;
     max-height: 0;
     justify-content: center;
-    transition: max-height 1s;
+    transition: max-height 2s;
     display: none;
 
 }
